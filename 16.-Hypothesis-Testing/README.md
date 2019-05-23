@@ -9,6 +9,8 @@ In this lab we'll familiarize you with one sample hypothesis tests. You will als
 ## Deliverables
 
 - `main.ipynb`.
+- `challenge-1.ipynb`.
+- `challenge-2.ipynb`.
 
 ## Submission
 
