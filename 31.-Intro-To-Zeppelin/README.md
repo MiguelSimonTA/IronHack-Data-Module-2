@@ -4,32 +4,17 @@
 
 ## Introduction
 
-In this lab, we will practice loading data into Zeppelin, inspecting and modifying data types, and creating tabular views with metrics based on the information contained in the data set. We will be working with a liquor store sales data set hosted in our Ironhack database.
+In this lab, we will practice loading data into Zeppelin, inspecting and modifying data types and creating plots with metrics based on the information included in the dataset. We will be working with the `liquor store sales` dataset, hosted in Ironhack's database.
 
 ## Getting Started
 
-To complete this lab, follow each of the steps below.
-
-1. Open the dataset in your Zeppelin notebook.
-5. Once the data set has been imported, change the data type for the Year field to string.
-6. Create a new field called Quarter by binning the month field using a bin size of 4.
-7. Create a new worksheet, drag the newly-created Quarter field into the Rows section, and drag the Number of Records measure to the center of the view. You will notice that the quarters are currently named labeled 0, 4, 8, 12. Rename them more intuitively by changing their names to Q1, Q2, Q3, and Q4 respectively.
-8. Create new worksheets with tabular views for each of the following metrics.
-    - Total Retail Sales by Year/Quarter (rows).
-    - Average Retail Sales by Year/Quarter (rows).
-    - Total Retail Sales by Year/Month (rows) and Item Type (columns).
-    - Average Retail Sales by Year/Month (rows) and Item Type (columns).
-    - Total Retail Transfers by Year/Quarter (rows).
-    - Average Retail Transfers by Year/Quarter (rows).
-    - Total Retail Transfers by Year/Month (rows) and Item Type (columns).
-    - Average Retail Transfers by Year/Month (rows) and Item Type (columns).
-    - Total Warehouse Sales by Year/Quarter (rows).
-    - Average Warehouse Sales by Year/Quarter (rows).
-    - Total Warehouse Sales by Year/Month (rows) and Item Type (columns).
-    - Average Warehouse Sales by Year/Month (rows) and Item Type (columns).
-9. Download your deliverable and copy it to your forked repository.
+In `your-code` directory you will find a file called `main.json`. Import that file to Zeppelin and follow the step-by-step instructions to complete the lab.
 
 ## Deliverables
 
-- `main.json` file.
+* `main.json` including the anwers to the challenges.
+
+## Submission
+
+Upon completion, add your deliverables to git. Then commit git and push your branch to the remote.
 
